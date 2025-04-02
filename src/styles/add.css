@@ -1,0 +1,17 @@
+.add{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{ 
+    background-color: inherit;
+    border: none;
+}
+
+.loading{
+    margin-bottom: 50px;
+    z-index: -1;
+}
